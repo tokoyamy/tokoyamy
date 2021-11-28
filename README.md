@@ -1,4 +1,4 @@
-## Hey eu sou a Tokoyamy!
+## Hey eu sou o Tokoyamy!
 
 Here are some ideas to get you started:
 - 😄 Pronouns: (He/Him)
