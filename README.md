@@ -1,8 +1,8 @@
 ## Hey...I'm Tokoyamy !
 
 Here are some ideas to get you started:
-- 😄 Pronouns: (He/Him)
 - 💬 about me: "Studying in the area of information security. I have a career in the field of technology."
+- - 😄 Pronouns: (He/Him)
 <!--
 Here are some ideas to get you started:
 - 🔭 I’m currently working on script in python
