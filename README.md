@@ -1,7 +1,7 @@
 ## Hey...I'm Tokoyamy !
 
 Here are some ideas to get you started:
-- 💬 about me: "Studying in the area of information security. I have a career in the field of technology."
+- - 💬 about me: "Studying in the area of information security. I have a career in the field of technology."
 - - 😄 Pronouns: (He/Him)
 <!--
 Here are some ideas to get you started:
