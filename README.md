@@ -16,3 +16,6 @@ Interested in innovating together in this rapidly evolving tech world? 🌌
 
 
 [![My Skills](https://skillicons.dev/icons?i=python,nestjs,typescript,js,nodejs)](https://skillicons.dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker)](https://skillicons.dev)
