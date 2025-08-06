@@ -23,12 +23,6 @@
 - Collaborated with OpenAI's development team to define new features.
 - Participated in strategic meetings and designed scalable architectures.
 
-### Software Engineer @ Genexus AI  
-**Previously**  
-- Built chatbots and conversational AI solutions.
-- Integrated NLP pipelines using Scikit-Learn, SpaCy, and NLTK.
-- Automated data workflows and monitored model performance.
-
 ---
 
 ## Technologies & Tools
@@ -53,9 +47,8 @@
 
 ## Contact
 
-- 📫 **Email**: [your.email@example.com](mailto:your.email@example.com)
-- 🔗 **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+- 🔗 **LinkedIn**: [linkedin.com/in/matheus-machado-a007a0175](https://www.linkedin.com/in/matheus-machado-a007a0175/)
+- 🌐 **Portfolio**: [Github.com]([https://yourwebsite.com](https://github.com/tokoyamy))
 
 ---
 
