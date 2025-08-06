@@ -7,7 +7,7 @@
 
 ## About Me
 
-- 🔭 **Current Position**: Software Engineer at **iFood Pago** (iFood's B2B vertical), working remotely since **May 2023**.
+- 🔭 **Current Position**: Software Engineer at **iFood Pago** (iFood's B2B vertical), working remotely since **Out 2021**.
 - 💼 **Expertise**: Conversational AI, Machine Learning, and Natural Language Processing.
 - 💡 **Interests**: LLMs, Prompt Engineering, Retrieval-Augmented Generation (RAG), and Fintech.
 - 🤖 **Mission**: Innovate AI-driven solutions to enhance user experience and optimize processes.
